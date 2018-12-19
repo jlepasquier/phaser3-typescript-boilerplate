@@ -12,7 +12,7 @@
 [![GitHub license](https://img.shields.io/github/license/jlepasquier/phaser3-typescript-boilerplate.svg)](https://github.com/digitsensitive/phaser3-typescript)
 
 <div align="center">
-  Framework created by <a href="https://github.com/photonstorm">Photonstorm</a></sub>
+  <sub>Framework created by <a href="https://github.com/photonstorm">Photonstorm</a><br>
   Repository adapted from <a href="https://github.com/digitsensitive/phaser3-typescript">phaser3-typescript</a></sub>
 </div>
 
@@ -25,7 +25,8 @@ in TypeScript. Have fun discovering, developing and playing!
 Ideas and corrections are highly desirable to constantly
 improve this repository!
 
-## Thanks
+## Acknowledgement
+
 This repository is a simplified version of [digitsensitive](https://github.com/digitsensitive)'s [phaser3-typescript](https://github.com/digitsensitive/phaser3-typescript) repository, which was adapted to suit my needs. 
 Check out his awesome work and Phaser examples !
 This repository was created for my own personal use, but feel free to use it as you wish !
@@ -84,10 +85,6 @@ npm run dev
 - [Leshy SpriteSheet Tool](https://www.leshylabs.com/apps/sstool)
 - [Tiled](https://www.mapeditor.org)
 - [Littera](http://kvazars.com/littera)
-
-## Changelog
-
-[Learn about the latest improvements](https://github.com/digitsensitive/phaser3-typescript/blob/master/CHANGELOG.md)
 
 ## Contributing
 
