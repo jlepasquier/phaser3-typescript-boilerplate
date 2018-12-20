@@ -45,7 +45,7 @@ Select a folder, navigate to it, and clone this repository
 with this command-line:
 
 ```
-git clone https://github.com/digitsensitive/phaser3-typescript.git
+git clone https://github.com/jlepasquier/phaser3-typescript-boilerplate.git
 ```
 
 Install the dependencies with this command-line:
@@ -89,8 +89,8 @@ npm run dev
 ## Contributing
 
 Want to correct a bug, contribute some code, or improve the codes? Excellent! Let me know!
-Please read [CONTRIBUTING.md](https://github.com/digitsensitive/phaser3-typescript/blob/master/CONTRIBUTING.md) for details on our code of conduct.
+Please read [CONTRIBUTING.md](https://github.com/jlepasquier/phaser3-typescript-boilerplate/blob/master/CONTRIBUTING.md) for details on our code of conduct.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/digitsensitive/phaser3-typescript/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jlepasquier/phaser3-typescript-boilerplate/blob/master/LICENSE) file for details
