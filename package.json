@@ -1,6 +1,6 @@
 {
   "name": "phaser3-typescript-boilerplate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Boilerplate for Phaser 3 in Typescript",
   "keywords": [
     "Phaser",
@@ -11,12 +11,12 @@
     "Boilerplate"
   ],
   "devDependencies": {
-    "expose-loader": "0.7.5",
-    "ts-loader": "5.3.0",
-    "typescript": "3.1.6",
-    "webpack": "4.25.1",
-    "webpack-cli": "3.1.2",
-    "webpack-dev-server": "3.1.10"
+    "expose-loader": "^0.7.5",
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "webpack": "^4.36.1",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.7.2"
   },
   "dependencies": {
     "phaser": "3.10.1"
@@ -33,7 +33,7 @@
     "name": "Julien Lepasquier",
     "email": "julien.lepasquier@gmail.com"
   },
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jlepasquier/phaser3-typescript-boilerplate/issues"
   },
