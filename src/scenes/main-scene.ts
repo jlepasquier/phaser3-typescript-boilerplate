@@ -1,4 +1,5 @@
 export class MainScene extends Phaser.Scene {
+  
   private phaserSprite: Phaser.GameObjects.Sprite;
 
   constructor() {
@@ -14,5 +15,4 @@ export class MainScene extends Phaser.Scene {
   create(): void {
     this.phaserSprite = this.add.sprite(400, 300, "logo");
   }
-
 }

@@ -1,6 +1,16 @@
 {
   "compilerOptions": {
     "target": "ES2017",
-    "module": "CommonJs"
+    "module": "commonjs",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "noImplicitThis": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedParameters": true,
+    "typeRoots": [
+      "./node_modules/@types",
+      "./node_modules/phaser/types/"
+    ]
   }
 }
